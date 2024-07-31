@@ -5,7 +5,7 @@
 	"main": "lib/index.js",
 	"unpkg": "lib/index.js",
 	"module": "es/index.js",
-	"typings": "lib/index.d.ts",
+	"typings": "lib/src/index.d.ts",
 	"files": [
 		"lib",
 		"es"
@@ -46,7 +46,6 @@
 		"eslint-plugin-prettier": "^4.0.0",
 		"morgan": "^1.10.0",
 		"prettier": "^2.4.1",
-		"puppeteer-core": "^11.0.0",
 		"rollup": "^4.13.0",
 		"rollup-plugin-dts": "^4.2.2",
 		"rollup-plugin-node-resolve": "^5.2.0",
